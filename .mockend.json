@@ -1,0 +1,14 @@
+{
+  "Post": {
+    "name": "string",
+    "dob": "date",
+    "company": "string",
+    "salary": "string",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
