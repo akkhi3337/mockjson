@@ -1,11 +1,9 @@
 {
   "Post": {
-    "name": "string",
-    "dob": "date",
-    "company": "string",
-    "salary": "string",
-    "createdAt": "date",
-    "comments": "Comment[]"
+    "title": "test","views": "1","published": "true","createdAt": "12/12/2020"
+    "title": "test2","views": "2","published": "true","createdAt": "13/12/2020"
+    "title": "test3","views": "3","published": "true","createdAt": "14/12/2020"
+    "title": "test4","views": "4","published": "true","createdAt": "15/12/2020"
   },
   "Comment": {
     "body": "string",
